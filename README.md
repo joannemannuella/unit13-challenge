@@ -5,7 +5,7 @@
 
 ## Robo Advisor for Retirement Plans
 
-![Robot](https://github.com/joannemannuella/unit13-challenge/blob/main/RoboAdvisor/Icons/robot.jpg)
+![Robot](https://github.com/joannemannuella/unit13-challenge/blob/main/RoboAdvisor/Icons_Images/robot.jpg)
 
 
 ### Background
@@ -76,6 +76,23 @@ Once the intent is fulfilled, the bot should response with an investment recomme
 * **very high:** "0% bonds (AGG), 100% equities (SPY)"
 
 Once I finished  coding your lambda function, I  test it using the [sample test cases](https://github.com/joannemannuella/unit13-challenge/tree/main/RoboAdvisor/Test_Cases) provided for this homework.
+
+* [age_error](https://github.com/joannemannuella/unit13-challenge/blob/main/RoboAdvisor/Test_Cases/age_error.txt)
+
+![age](https://github.com/joannemannuella/unit13-challenge/blob/main/RoboAdvisor/Icons_Images/age_error.png)
+
+* [incorrect_amount](https://github.com/joannemannuella/unit13-challenge/blob/main/RoboAdvisor/Test_Cases/incorrect_amount_error.txt)
+
+![amount](https://github.com/joannemannuella/unit13-challenge/blob/main/RoboAdvisor/Icons_Images/incorrect_amount.png)
+
+* [negative_age](https://github.com/joannemannuella/unit13-challenge/blob/main/RoboAdvisor/Test_Cases/negative_age_error.txt)
+
+![negative_age](https://github.com/joannemannuella/unit13-challenge/blob/main/RoboAdvisor/Icons_Images/negative_age.png)
+
+* [correct_dialog](https://github.com/joannemannuella/unit13-challenge/blob/main/RoboAdvisor/Test_Cases/correct_dialog.txt)
+
+![correct_dialog](https://github.com/joannemannuella/unit13-challenge/blob/main/RoboAdvisor/Icons_Images/correct_dialog.png)
+
 
 #### Build and Test the Robo Advisor with Lambda Function
 
