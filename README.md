@@ -98,3 +98,5 @@ Once I finished  coding your lambda function, I  test it using the [sample test 
 
 
 ![Robo Advisor test](https://github.com/joannemannuella/unit13-challenge/blob/main/RoboAdvisor/Demo%20Lex/Lex%20GIF.gif)
+
+For full demo video find [here](https://github.com/joannemannuella/unit13-challenge/blob/main/RoboAdvisor/Demo%20Lex/Amazon%20Lex%20-%20Google%20Chrome%202022-06-27%2013-11-28.mp4)
