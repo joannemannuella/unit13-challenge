@@ -124,8 +124,8 @@ def validate_data(age, investment_amount, intent_request):
             return build_validation_result(
                 False,
                 "investmentAmount",
-                "The minimum investment amount is $5,000 CAD, "
-                "Provide a greater amount?",
+                "The minimum investment amount is $5,000 , "
+                "Please choose a greater amount?",
             )
 
     # A True results is returned if age or investment amount are valid
