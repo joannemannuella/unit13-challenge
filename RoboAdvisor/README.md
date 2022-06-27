@@ -5,7 +5,7 @@
 
 ## Robo Advisor for Retirement Plans
 
-![Robot](Images/robot.jpg)
+![Robot](https://github.com/joannemannuella/unit13-challenge/blob/main/RoboAdvisor/Icons/robot.jpg)
 
 
 ### Background
@@ -20,7 +20,7 @@ I accomplish the following main tasks:
 
 2. **Build and Test the Robo Advisor** Make sure that your bot is working and responding accurately along with the conversation with the user, by building and testing it.
 
-3. **Enhance the Robo Advisor with an Amazon Lambda Function** Create an Amazon Lambda function that validates the user's input and returns the investment portfolio recommendation. This task includes testing the Amazon Lambda function and making the integration with the bot.
+3. [**Enhance the Robo Advisor with an Amazon Lambda Function**](https://github.com/joannemannuella/unit13-challenge/blob/main/RoboAdvisor/Code/lambda_function.py) Create an Amazon Lambda function that validates the user's input and returns the investment portfolio recommendation. This task includes testing the Amazon Lambda function and making the integration with the bot.
 
 ---
 
@@ -53,8 +53,6 @@ This bot used four slots, three using built-in types `FirstName`, `age`, `invest
 #### Build and Test the Robo Advisor
 
 
-![Robo Advisor test](Images/bot-test-no-lambda.gif)
-
 #### Enhance the Robo Advisor with an Amazon Lambda Function
 
 In this section, I created an Amazon Lambda function that will validate the data provided by the user on the Robo Advisor. I created a new lambda function from scratch and name it `recommendPortfolio`.  I Selected Python 3.7 as runtime.
@@ -77,6 +75,9 @@ Once the intent is fulfilled, the bot should response with an investment recomme
 * **high:** "20% bonds (AGG), 80% equities (SPY)"
 * **very high:** "0% bonds (AGG), 100% equities (SPY)"
 
+Once I finished  coding your lambda function, I  test it using the [sample test cases](https://github.com/joannemannuella/unit13-challenge/tree/main/RoboAdvisor/Test_Cases) provided for this homework.
 
-Once I finished  coding your lambda function, I  test it using the [sample test cases](Test_Cases/) provided for this homework.
+#### Build and Test the Robo Advisor with Lambda Function
 
+
+![Robo Advisor test](Images/bot-test-no-lambda.gif)](https://github.com/joannemannuella/unit13-challenge/blob/main/RoboAdvisor/Demo%20Lex/Lex%20GIF.gif)
