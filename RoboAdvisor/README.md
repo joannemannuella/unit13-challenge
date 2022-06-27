@@ -57,7 +57,7 @@ This bot used four slots, three using built-in types `FirstName`, `age`, `invest
 
 In this section, I created an Amazon Lambda function that will validate the data provided by the user on the Robo Advisor. I created a new lambda function from scratch and name it `recommendPortfolio`.  I Selected Python 3.7 as runtime.
 
-In the Lambda function I completed `recommend_portfolio()` function by following these guidelines:
+In the Lambda function I completed [`recommend_portfolio()`](https://github.com/joannemannuella/unit13-challenge/blob/main/RoboAdvisor/Code/lambda_function.py) function by following these guidelines:
 
 ##### User Input Validation
 
