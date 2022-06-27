@@ -80,4 +80,4 @@ Once I finished  coding your lambda function, I  test it using the [sample test 
 #### Build and Test the Robo Advisor with Lambda Function
 
 
-![Robo Advisor test](Images/bot-test-no-lambda.gif)](https://github.com/joannemannuella/unit13-challenge/blob/main/RoboAdvisor/Demo%20Lex/Lex%20GIF.gif)
+![Robo Advisor test](https://github.com/joannemannuella/unit13-challenge/blob/main/RoboAdvisor/Demo%20Lex/Lex%20GIF.gif)
