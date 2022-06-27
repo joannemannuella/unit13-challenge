@@ -12,7 +12,7 @@
   "currentIntent": {
     "name": "RecommendPortfolio",
     "slots": {
-      "firstName": "John",
+      "FirstName": "John",
       "age": "70",
       "riskLevel": "Low",
       "investmentAmount": "5000"
